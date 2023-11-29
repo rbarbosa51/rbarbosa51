@@ -31,7 +31,7 @@ As a freelance web developer, I create dynamic and responsive websites and appli
 <img align="left" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>
 <img align="left" width="30px" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/><br /><br />
 
-
+---
 
 ### 🌎 Portfolio Website and Socials
 Website: https://rafael-barbosa.com
